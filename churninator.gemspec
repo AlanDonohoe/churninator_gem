@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Give your cancel subscription button an ID of ' \
                         "'cancel'. Let The Churninator do its work and watch "
                         'churn drop dead.'
-  spec.homepage      = 'https://github.com/AlanDonohoe/churninator'
+  spec.homepage      = 'https://github.com/AlanDonohoe/churninator_gem'
   spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
